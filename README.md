@@ -17,7 +17,6 @@ Below are the required steps in order to setup the project
 
 4. Open pom.xml file and put these dependencies 
 
-'''
     <dependencies>
 
         <dependency>
@@ -68,7 +67,7 @@ Below are the required steps in order to setup the project
 
 
     </dependencies>
-'''
+
 
 5. Create a Java class under the test/java directory to write down test cases
 
@@ -78,9 +77,9 @@ Below are the required steps in order to setup the project
 
 2. Run the following command
 
-'''
+```
 mvn -Dtest=APIAutomation test
-'''
+```
 
 3. The results will be shown inside the terminal
 
