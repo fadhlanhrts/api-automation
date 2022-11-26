@@ -7,7 +7,7 @@ Below are the required steps in order to setup the project
 1. [Setup process](#setup)
 2. [Running the project](#running)
 
-## Setup process
+# Setup process
 
 1. Install Java on the system, currently I am using Java 11 
 
@@ -72,7 +72,7 @@ Below are the required steps in order to setup the project
 
 5. Create a Java class under the test/java directory to write down test cases
 
-## Running the project
+# Running the project
 
 1. Open up a terminal or command prompt and navigate to the project directory
 
